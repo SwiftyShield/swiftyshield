@@ -29,7 +29,7 @@
 
 ## 📺 演示视频
 
-<video src="https://erjntqiotojkxtyrhscz.supabase.co/storage/v1/object/public/Demo/swiftyshield-demo.mp4" controls></video>
+[👉 点击此处观看演示视频](https://erjntqiotojkxtyrhscz.supabase.co/storage/v1/object/public/Demo/swiftyshield-demo.mp4)
 
 ---
 

@@ -29,7 +29,7 @@ Visit the official website to download the latest version of SwiftyShield
 
 ## 📺 Demo Video
 
-<video src="https://erjntqiotojkxtyrhscz.supabase.co/storage/v1/object/public/Demo/swiftyshield-demo.mp4" controls></video>
+[👉 Click here to watch the demo video](https://erjntqiotojkxtyrhscz.supabase.co/storage/v1/object/public/Demo/swiftyshield-demo.mp4)
 
 ---
 
