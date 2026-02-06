@@ -147,31 +147,10 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ---
 
-## 💎 Premium Membership
+## 📝 Version History
 
-### Member Benefits
-
-- ✅ **Unlimited Obfuscation**: No limit on obfuscation times
-- ✅ **Personalized Customization**: Customize obfuscation features according to your needs
-- ✅ **Priority Support**: Get priority technical support and issue resolution
-
-### How to Upgrade
-
-#### Method 1: Online Purchase
-
-1. Click **Upgrade Premium** in the user info panel on the homepage
-2. Click the **Purchase Premium** button in the popup
-3. The browser will open the payment page, complete the payment
-4. Check your email after successful payment to get the Payment ID
-
-#### Method 2: Activate with Code
-
-1. Click the **Redeem Code** entry on the homepage
-2. Enter your Payment ID (format: `pay_xxxxxx`)
-3. Click the **Activate** button
-4. Enjoy Premium benefits immediately after successful activation
-
-> 🔒 Security Note: Each Payment ID can only be used once and cannot be shared, please keep it safe
+### v1.1.4
+- Fixed crash caused by sourcekit forcing indexing of code that didn't participate in compilation
 
 ---
 
