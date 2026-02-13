@@ -149,6 +149,13 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ## 📝 Version History
 
+### v1.1.6
+- Added plain text string splitting and obfuscation feature
+- ⚠️ **Custom Version**: This version is not publicly available. Please contact us if you need this feature.
+
+### v1.1.5
+- Optimized functionality: Ignore obfuscation of code that didn't participate in compilation
+
 ### v1.1.4
 - Fixed crash caused by sourcekit forcing indexing of code that didn't participate in compilation
 
