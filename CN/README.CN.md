@@ -33,6 +33,14 @@
 
 ---
 
+## 📖 原理介绍
+
+深入了解 SwiftyShield 的技术实现、核心混淆场景及设计思路：
+
+[👉 拒绝"裸奔"！一款基于 SourceKit-LSP 的 Swift 代码混淆工具 (SwiftyShield)](https://juejin.cn/post/7596874392824315946)
+
+---
+
 ## ✨ 产品功能
 
 ### 🔐 安全的源码保护
