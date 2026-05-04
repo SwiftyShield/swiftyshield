@@ -108,6 +108,10 @@ Configure the following options on the obfuscation configuration page:
 - Supports adding multiple variable names
 - Input restriction: Only English characters, max 40 characters
 
+#### 4. Encrypt Strings
+- Choose a file where the `decrypt` method will be written (as a `String` extension). During obfuscation, plaintext strings are encrypted using **AES-128-CBC**; the encryption key is generated at random
+- **Note**: Runtime string decryption adds extra performance overhead—enable this option only when you need it
+
 Click **Next** after configuration is complete
 
 ### Step 5: Select Parent Obfuscation Record (Optional)
