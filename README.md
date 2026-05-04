@@ -113,8 +113,8 @@ Configure the following options on the obfuscation configuration page:
 - **Note**: Runtime string decryption adds extra performance overhead—enable this option only when you need it
 
 #### 5. Remove Comments
-- When this option is enabled, **all types of comments** are removed during obfuscation using **AST-based** analysis
-- Comment removal is driven by the syntax tree, so it **does not delete any business or executable code** (only comments)
+- When enabled, all comment types are removed via **AST-based** analysis (**not regex matching/replacement**)
+- The syntax tree defines the removal boundaries, so it removes comments only and **does not delete any business or executable code**
 
 Click **Next** after configuration is complete
 
