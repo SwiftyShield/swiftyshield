@@ -149,6 +149,12 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ## 📝 Version History
 
+### v1.1.7
+- Optimized property binding for `CodingKeys` cases
+- Added plain text string encryption
+- Added filename and folder path obfuscation
+- Added AST-based removal of all comment types in code
+
 ### v1.1.6 🔒 Custom Version
 - Added plain text string splitting and obfuscation feature
 
