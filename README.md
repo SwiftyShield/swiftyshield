@@ -112,6 +112,10 @@ Configure the following options on the obfuscation configuration page:
 - Choose a file where the `decrypt` method will be written (as a `String` extension). During obfuscation, plaintext strings are encrypted using **AES-128-CBC**; the encryption key is generated at random
 - **Note**: Runtime string decryption adds extra performance overhead—enable this option only when you need it
 
+#### 5. Remove Comments
+- When this option is enabled, **all types of comments** are removed during obfuscation using **AST-based** analysis
+- Comment removal is driven by the syntax tree, so it **does not delete any business or executable code** (only comments)
+
 Click **Next** after configuration is complete
 
 ### Step 5: Select Parent Obfuscation Record (Optional)
