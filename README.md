@@ -138,6 +138,8 @@ During the obfuscation process, it displays in real-time:
 
 - **Global Declarations Progress**: Progress of global declaration obfuscation
 - **Temp Declarations Progress**: Progress of temporary variable obfuscation (if enabled)
+- **Remove Comments Progress**: Progress of comment removal (if enabled)
+- **Encrypt Strings Progress**: Progress of string encryption (if enabled)
 - **Obfuscation Logs**: Real-time output of obfuscation operation logs
 
 You can click the **Stop Obfuscation** button to interrupt the operation during the process
