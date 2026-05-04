@@ -116,6 +116,11 @@ Configure the following options on the obfuscation configuration page:
 - When enabled, all comment types are removed via **AST-based** analysis (**not regex matching/replacement**)
 - The syntax tree defines the removal boundaries, so it removes comments only and **does not delete any business or executable code**
 
+#### 6. Obfuscate File and Folder Names
+- When enabled, **file names and folder names** are obfuscated during the obfuscation process
+- The mappings for this feature are saved in the **current obfuscation record**, so incremental runs based on that record won't rename paths again unnecessarily—avoiding extra structural drift in the project
+- **Note**: If your project does **not** support Xcode's **Folder-backed** feature, after obfuscation you may need to **manually add/import** the obfuscated files back into the project
+
 Click **Next** after configuration is complete
 
 ### Step 5: Select Parent Obfuscation Record (Optional)
