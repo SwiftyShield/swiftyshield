@@ -164,6 +164,9 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ## 📝 Version History
 
+### v1.1.8
+- Optimized UI
+
 ### v1.1.7
 - Optimized property binding for `CodingKeys` cases
 - Added plain text string encryption
