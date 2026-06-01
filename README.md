@@ -164,6 +164,10 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ## 📝 Version History
 
+### v1.1.9
+- Optimized parts of the UI
+- Fixed bug: Completely resolved an issue where enabling string obfuscation caused Multipart network requests to crash and long-text escape characters to fail
+
 ### v1.1.8
 - Optimized UI
 
