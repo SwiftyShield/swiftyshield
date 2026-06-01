@@ -166,6 +166,7 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ### v1.1.9
 - Optimized parts of the UI
+- Added Chinese localization support
 - Fixed bug: Completely resolved an issue where enabling string obfuscation caused Multipart network requests to crash and long-text escape characters to fail
 
 ### v1.1.8
