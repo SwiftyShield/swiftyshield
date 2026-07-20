@@ -164,6 +164,11 @@ Click the **Obfuscation History** entry on the homepage to:
 
 ## 📝 Version History
 
+### v2.0.0
+- Added Alipay payment support for users in mainland China
+- Added encrypted information import
+- Optimized parts of the user experience
+
 ### v1.1.9
 - Optimized parts of the UI
 - Added multilingual support, currently including English, Simplified Chinese, Traditional Chinese, Korean, and Japanese
